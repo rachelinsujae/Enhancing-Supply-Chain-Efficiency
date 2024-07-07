@@ -1,4 +1,4 @@
-# Enhancing-Supply-Chain-Efficiency and Order fulfillment
+# Enhancing-Supply-Chain-Efficiency and Order fulfillment using SQL
 
 Problem Statement:
 Efficient supply chain management is essential for timely order fulfillment, cost reduction, and overall operational efficiency. The goal of this project is to analyze the supply chain process, from manufacturing to shipping, to identify bottlenecks, improve logistics, and enhance order fulfillment. This includes analyzing order processing times, shipping durations, and manufacturing efficiencies to develop strategies for streamlining operations and reducing costs.
